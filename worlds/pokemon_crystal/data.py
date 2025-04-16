@@ -7,6 +7,16 @@ import orjson
 from BaseClasses import ItemClassification
 
 
+class WarpData(NamedTuple):
+    destination_map: str
+    destination_id: int
+
+
+class WarpTables(NamedTuple):
+    label: str
+    warps: Dict[int, WarpData]
+
+
 class ItemData(NamedTuple):
     label: str
     item_id: int
