@@ -258,6 +258,12 @@ class PokemonCrystalWorld(World):
 
     def set_rules(self) -> None:
         set_rules(self)
+        
+        from Utils import visualize_regions
+        state = self.multiworld.get_all_state(False)
+        state.update_reachable_regions(self.player)
+        visualize_regions(self.get_region("Menu"), "my_world.puml", show_entrance_names=True,
+                         regions_to_highlight=state.reachable_regions[self.player])
 
     def pre_fill(self) -> None:
         if self.options.randomize_badges.value == RandomizeBadges.option_shuffle:

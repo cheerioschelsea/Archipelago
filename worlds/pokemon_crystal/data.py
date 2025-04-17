@@ -365,8 +365,10 @@ def _init() -> None:
             for trainer in region_json["trainers"]:  #
                 new_region.trainers.append(data.trainers[trainer])
 
-        # Exits
+        # Exits & Warps
         for region_exit in region_json["exits"]:
+            new_region.exits.append(region_exit)
+        for region_exit in region_json["warps"]:
             new_region.exits.append(region_exit)
         new_region.johto = region_json["johto"]
         new_region.silver_cave = region_json["silver_cave"] if "silver_cave" in region_json else False
