@@ -4,13 +4,17 @@
     "exits": [
       "REGION_AZALEA_TOWN"
     ],
-    "trainers": [
-      "TWINS_1",
-      "TWINS_4",
-      "BUG_CATCHER_5",
-      "BUG_CATCHER_6",
-      "BUG_CATCHER_7",
-      "BUGSY_1"
+    "parties": [
+      {
+        "Azalea Gym Scaling": [
+          "TWINS_1",
+          "TWINS_4",
+          "BUG_CATCHER_5",
+          "BUG_CATCHER_6",
+          "BUG_CATCHER_7",
+          "BUGSY_1"
+        ]
+      }
     ],
     "locations": [
       "TM49_FURY_CUTTER",
@@ -53,10 +57,14 @@
       "REGION_ILEX_FOREST_AZALEA_GATE",
       "REGION_ROUTE_33"
     ],
-    "trainers": [
-      "RIVAL_QUILAVA_1",
-      "RIVAL_BAYLEEF_1",
-      "RIVAL_CROCONAW_1"
+    "parties": [
+      {
+        "Azalea Town Rival Scaling": [
+          "RIVAL_QUILAVA_1",
+          "RIVAL_BAYLEEF_1",
+          "RIVAL_CROCONAW_1"
+        ]
+      }
     ],
     "locations": [
       "AZALEA_TOWN_HIDDEN_FULL_HEAL",
@@ -176,9 +184,6 @@
       "REGION_BLACKTHORN_CITY",
       "REGION_BLACKTHORN_GYM_2F"
     ],
-    "trainers": [
-      "COOLTRAINERM_3"
-    ],
     "locations": [
       "ITEM_FROM_COOLTRAINERM_PAUL",
       "ITEM_FROM_COOLTRAINERM_MIKE"
@@ -193,10 +198,13 @@
       "RISING_BADGE_FROM_CLAIR",
       "ITEM_FROM_COOLTRAINERF_LOLA"
     ],
-    "trainers": [
-      "COOLTRAINERM_5",
-      "COOLTRAINERF_4",
-      "CLAIR_1"
+    "parties": [
+      {
+        "Blackthorn Gym After Strength Scaling": [
+          "COOLTRAINERF_4",
+          "CLAIR_1"
+        ]
+      }
     ],
     "events": [
       "EVENT_BEAT_CLAIR",
@@ -209,9 +217,15 @@
       "REGION_BLACKTHORN_GYM_1F",
       "REGION_BLACKTHORN_GYM_1F:STRENGTH"
     ],
-    "trainers": [
-      "COOLTRAINERM_4",
-      "COOLTRAINERF_3"
+    "parties": [
+      {
+        "Blackthorn Gym Before Strength Scaling": [
+          "COOLTRAINERM_3",
+          "COOLTRAINERM_4",
+          "COOLTRAINERF_3",
+          "COOLTRAINERM_5"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_COOLTRAINERM_CODY",
@@ -250,9 +264,6 @@
       "REGION_KOGAS_ROOM",
       "REGION_KARENS_ROOM"
     ],
-    "trainers": [
-      "BRUNO_1"
-    ],
     "locations": [],
     "events": [
       "EVENT_BEAT_ELITE_4_BRUNO"
@@ -264,10 +275,14 @@
       "REGION_ECRUTEAK_CITY",
       "REGION_BURNED_TOWER_B1F"
     ],
-    "trainers": [
-      "RIVAL_QUILAVA_2",
-      "RIVAL_BAYLEEF_2",
-      "RIVAL_CROCONAW_2"
+    "parties": [
+      {
+        "Bruned Tower Rival Scaling": [
+          "RIVAL_QUILAVA_2",
+          "RIVAL_BAYLEEF_2",
+          "RIVAL_CROCONAW_2"
+        ]
+      }
     ],
     "locations": [
       "BURNED_TOWER_1F_HIDDEN_ETHER",
@@ -410,13 +425,17 @@
     "exits": [
       "REGION_CELADON_CITY"
     ],
-    "trainers": [
-      "LASS_9",
-      "PICNICKER_19",
-      "BEAUTY_14",
-      "TWINS_5",
-      "TWINS_6",
-      "ERIKA_1"
+    "parties": [
+      {
+        "Celadon Gym Scaling": [
+          "LASS_9",
+          "PICNICKER_19",
+          "BEAUTY_14",
+          "TWINS_5",
+          "TWINS_6",
+          "ERIKA_1"
+        ]
+      }
     ],
     "locations": [
       "TM19_GIGA_DRAIN",
@@ -510,11 +529,15 @@
     "exits": [
       "REGION_CERULEAN_CITY"
     ],
-    "trainers": [
-      "SWIMMERF_18",
-      "SWIMMERF_19",
-      "SWIMMERM_21",
-      "MISTY_1"
+    "parties": [
+      {
+        "Cerulean Gym Scaling": [
+          "SWIMMERF_18",
+          "SWIMMERF_19",
+          "SWIMMERM_21",
+          "MISTY_1"
+        ]
+      }
     ],
     "locations": [
       "CERULEAN_GYM_MACHINE_PART",
@@ -589,10 +612,14 @@
       "REGION_ROUTE_30",
       "REGION_ROUTE_29"
     ],
-    "trainers": [
-      "RIVAL_CYNDAQUIL",
-      "RIVAL_CHIKORITA",
-      "RIVAL_TOTODILE"
+    "parties": [
+      {
+        "Cherrygrove City Rival Scaling": [
+          "RIVAL_CYNDAQUIL",
+          "RIVAL_CHIKORITA",
+          "RIVAL_TOTODILE"
+        ]
+      }
     ],
     "locations": [
       "MYSTIC_WATER_IN_CHERRYGROVE",
@@ -647,8 +674,12 @@
       "REGION_POKE_SEERS_HOUSE",
       "REGION_ROUTE_41"
     ],
-    "trainers": [
-      "MYSTICALMAN_1"
+    "parties": [
+      {
+        "Mystical Man Eusine Scaling": [
+          "MYSTICALMAN_1"
+        ]
+      }
     ],
     "locations": [
       "CIANWOOD_CITY_HIDDEN_MAX_ETHER",
@@ -665,10 +696,14 @@
       "REGION_CIANWOOD_CITY",
       "REGION_CIANWOOD_GYM:STRENGTH"
     ],
-    "trainers": [
-      "BLACKBELT_T_2",
-      "BLACKBELT_T_4",
-      "BLACKBELT_T_5"
+    "parties": [
+      {
+        "Cianwood Gym Before Strength Scaling": [
+          "BLACKBELT_T_2",
+          "BLACKBELT_T_4",
+          "BLACKBELT_T_5"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_BLACKBELT_YOSHI",
@@ -682,9 +717,13 @@
     "exits": [
       "REGION_CIANWOOD_GYM"
     ],
-    "trainers": [
-      "BLACKBELT_T_7",
-      "CHUCK_1"
+    "parties": [
+      {
+        "Cianwood Gym After Strength Scaling": [
+          "BLACKBELT_T_7",
+          "CHUCK_1"
+        ]
+      }
     ],
     "locations": [
       "TM01_DYNAMICPUNCH",
@@ -788,12 +827,16 @@
     "exits": [
       "REGION_ECRUTEAK_CITY"
     ],
-    "trainers": [
-      "KIMONO_GIRL_2",
-      "KIMONO_GIRL_3",
-      "KIMONO_GIRL_4",
-      "KIMONO_GIRL_5",
-      "KIMONO_GIRL_6"
+    "parties": [
+      {
+        "Kimono Girls Scaling": [
+          "KIMONO_GIRL_2",
+          "KIMONO_GIRL_3",
+          "KIMONO_GIRL_4",
+          "KIMONO_GIRL_5",
+          "KIMONO_GIRL_6"
+        ]
+      }
     ],
     "locations": [
       "HM03_SURF",
@@ -889,8 +932,12 @@
       "REGION_DRAGONS_DEN_1F",
       "REGION_DRAGONS_DEN_B1F:WATER"
     ],
-    "trainers": [
-      "COOLTRAINERM_20"
+    "parties": [
+      {
+        "Cool Trainer Darin Scaling": [
+          "COOLTRAINERM_20"
+        ]
+      }
     ],
     "locations": [
       "DRAGONS_DEN_B1F_CALCIUM",
@@ -906,10 +953,18 @@
       "REGION_DRAGONS_DEN_B1F",
       "REGION_DRAGONS_DEN_B1F:WHIRLPOOL"
     ],
-    "trainers": [
-      "COOLTRAINERF_21",
-      "TWINS_9",
-      "TWINS_10"
+    "parties": [
+      {
+        "Cool Trainer Cara Scaling": [
+          "COOLTRAINERF_21"
+        ]
+      },
+      {
+        "Twins Lea and Pia Scaling": [
+          "TWINS_9",
+          "TWINS_10"
+        ]
+      }
     ],
     "locations": [
       "DRAGONS_DEN_B1F_HIDDEN_MAX_POTION",
@@ -968,12 +1023,16 @@
       "REGION_ECRUTEAK_CITY",
       "REGION_ECRUTEAK_GYM"
     ],
-    "trainers": [
-      "SAGE_5",
-      "SAGE_6",
-      "MEDIUM_1",
-      "MEDIUM_2",
-      "MORTY_1"
+    "parties": [
+      {
+        "Ecruteak Gym Scaling": [
+          "SAGE_5",
+          "SAGE_6",
+          "MEDIUM_1",
+          "MEDIUM_2",
+          "MORTY_1"
+        ]
+      }
     ],
     "locations": [
       "TM30_SHADOW_BALL",
@@ -1073,17 +1132,42 @@
     "exits": [
       "REGION_FAST_SHIP_1F"
     ],
-    "trainers": [
-      "SAILOR_6",
-      "SAILOR_7",
-      "FISHER_12",
-      "BLACKBELT_T_9",
-      "SAILOR_8",
-      "TEACHER_3",
-      "SCHOOLBOY_11",
-      "SCHOOLBOY_12",
-      "PICNICKER_8",
-      "JUGGLER_2"
+    "parties": [
+      {
+        "Sailor Garrett Scaling": [
+          "SAILOR_7"
+        ]
+      },
+      {
+        "Fisher Jonah Scaling": [
+          "FISHER_12"
+        ]
+      },
+      {
+        "Blackbelt Wai Scaling": [
+          "BLACKBELT_T_9"
+        ]
+      },
+      {
+        "Sailor Kenneth Scaling": [
+          "SAILOR_8"
+        ]
+      },
+      {
+        "Teacher Shirley Scaling": [
+          "TEACHER_3"
+        ]
+      },
+      {
+        "School Boy Nate Scaling": [
+          "SCHOOLBOY_11"
+        ]
+      },
+      {
+        "School Boy Ricky Scaling": [
+          "SCHOOLBOY_12"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_SAILOR_JEFF",
@@ -1104,14 +1188,37 @@
     "exits": [
       "REGION_FAST_SHIP_1F"
     ],
-    "trainers": [
-      "SAILOR_9",
-      "COOLTRAINERM_16",
-      "COOLTRAINERF_13",
-      "POKEMANIAC_8",
-      "HIKER_14",
-      "GENTLEMAN_2",
-      "BURGLAR_3"
+    "parties": [
+      {
+        "Sailor Stanley Scaling": [
+          "SAILOR_9"
+        ]
+      },
+      {
+        "Cool Trainer Sean Scaling": [
+          "COOLTRAINERM_16"
+        ]
+      },
+      {
+        "Cool Trainer Carol Scaling": [
+          "COOLTRAINERF_13"
+        ]
+      },
+      {
+        "PokeManiac Ethan Scaling": [
+          "POKEMANIAC_8"
+        ]
+      },
+      {
+        "Gentleman Edward Scaling": [
+          "GENTLEMAN_2"
+        ]
+      },
+      {
+        "Burglar Corey Scaling": [
+          "BURGLAR_3"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_COOLTRAINERM_SEAN",
@@ -1130,13 +1237,27 @@
     "exits": [
       "REGION_FAST_SHIP_1F"
     ],
-    "trainers": [
-      "PSYCHIC_T_12",
-      "POKEFANM_8",
-      "POKEFANF_5",
-      "SUPER_NERD_9",
-      "POKEFANM_9",
-      "TWINS_7"
+    "parties": [
+      {
+        "Psychic Rodney Scaling": [
+          "PSYCHIC_T_12"
+        ]
+      },
+      {
+        "PokeFan Jeremy Scaling": [
+          "POKEFANM_8"
+        ]
+      },
+      {
+        "PokeFan Georgia Scaling": [
+          "POKEFANF_5"
+        ]
+      },
+      {
+        "Super Nerd Shawn Scaling": [
+          "SUPER_NERD_9"
+        ]
+      }
     ],
     "locations": [
       "METAL_COAT_FROM_GRANDPA_ON_SS_AQUA",
@@ -1154,11 +1275,22 @@
     "exits": [
       "REGION_FAST_SHIP_1F"
     ],
-    "trainers": [
-      "BUG_CATCHER_9",
-      "BEAUTY_6",
-      "GUITARIST_1",
-      "FIREBREATHER_8"
+    "parties": [
+      {
+        "Bug Catcher Ken Scaling": [
+          "BUG_CATCHER_9"
+        ]
+      },
+      {
+        "Beauty Cassie Scaling": [
+          "BEAUTY_6"
+        ]
+      },
+      {
+        "Guitarist Clyde Scaling": [
+          "GUITARIST_1"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_BUG_CATCHER_KEN",
@@ -1202,12 +1334,16 @@
     "exits": [
       "REGION_FUCHSIA_CITY"
     ],
-    "trainers": [
-      "LASS_3",
-      "LASS_6",
-      "PICNICKER_5",
-      "CAMPER_5",
-      "JANINE_1"
+    "parties": [
+      {
+        "Fuchsia Gym Scaling": [
+          "LASS_3",
+          "LASS_6",
+          "PICNICKER_5",
+          "CAMPER_5",
+          "JANINE_1"
+        ]
+      }
     ],
     "locations": [
       "TM06_TOXIC",
@@ -1395,12 +1531,16 @@
     "exits": [
       "REGION_GOLDENROD_CITY"
     ],
-    "trainers": [
-      "LASS_1",
-      "LASS_2",
-      "BEAUTY_1",
-      "BEAUTY_2",
-      "WHITNEY_1"
+    "parties": [
+      {
+        "Goldenrod Gym Scaling": [
+          "LASS_1",
+          "LASS_2",
+          "BEAUTY_1",
+          "BEAUTY_2",
+          "WHITNEY_1"
+        ]
+      }
     ],
     "locations": [
       "TM45_ATTRACT",
@@ -1465,11 +1605,27 @@
       "REGION_GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES",
       "REGION_GOLDENROD_CITY"
     ],
-    "trainers": [
-      "SUPER_NERD_2",
-      "SUPER_NERD_10",
-      "POKEMANIAC_11",
-      "POKEMANIAC_12"
+    "parties": [
+      {
+        "Super Nerd Eric Scaling": [
+          "SUPER_NERD_2"
+        ]
+      },
+      {
+        "Super Nerd Teru Scaling": [
+          "SUPER_NERD_10"
+        ]
+      },
+      {
+        "PokeManiac Issac Scaling": [
+          "POKEMANIAC_11"
+        ]
+      },
+      {
+        "PokeManiac Donald Scaling": [
+          "POKEMANIAC_12"
+        ]
+      }
     ],
     "locations": [
       "GOLDENROD_UNDERGROUND_COIN_CASE",
@@ -1490,10 +1646,14 @@
       "REGION_GOLDENROD_UNDERGROUND_WAREHOUSE",
       "REGION_GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES:TAKEOVER"
     ],
-    "trainers": [
-      "RIVAL_MEGANIUM_1",
-      "RIVAL_TYPHLOSION_1",
-      "RIVAL_FERALIGATR_1"
+    "parties": [
+      {
+        "Goldenrod Underground Rival Scaling": [
+          "RIVAL_MEGANIUM_1",
+          "RIVAL_TYPHLOSION_1",
+          "RIVAL_FERALIGATR_1"
+        ]
+      }
     ],
     "locations": [
       "GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES_FULL_HEAL",
@@ -1510,13 +1670,37 @@
     "exits": [
       "REGION_GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES"
     ],
-    "trainers": [
-      "GRUNTM_11",
-      "GRUNTM_25",
-      "GRUNTM_13",
-      "BURGLAR_1",
-      "BURGLAR_2",
-      "GRUNTF_3"
+    "parties": [
+      {
+        "Rocket Grunt M 11 Scaling": [
+          "GRUNTM_11"
+        ]
+      },
+      {
+        "Rocket Grunt M 25 Scaling": [
+          "GRUNTM_25"
+        ]
+      },
+      {
+        "Rocket Grunt M 13 Scaling": [
+          "GRUNTM_13"
+        ]
+      },
+      {
+        "Burglar Duncan Scaling": [
+          "BURGLAR_1"
+        ]
+      },
+      {
+        "Burglar Eddie Scaling": [
+          "BURGLAR_2"
+        ]
+      },
+      {
+        "Rocket Grunt F 3 Scaling": [
+          "GRUNTF_3"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_ROCKET_GRUNTM_11",
@@ -1550,10 +1734,22 @@
     "exits": [
       "REGION_GOLDENROD_UNDERGROUND_WAREHOUSE"
     ],
-    "trainers": [
-      "GRUNTM_24",
-      "GRUNTM_14",
-      "GRUNTM_15"
+    "parties": [
+      {
+        "Rocket Grunt M 24 Scaling": [
+          "GRUNTM_24"
+        ]
+      },
+      {
+        "Rocket Grunt M 14 Scaling": [
+          "GRUNTM_14"
+        ]
+      },
+      {
+        "Rocket Grunt M 15 Scaling": [
+          "GRUNTM_15"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_ROCKET_GRUNTM_24",
@@ -1680,8 +1876,12 @@
       "REGION_ROUTE_34_ILEX_FOREST_GATE",
       "REGION_ILEX_FOREST:SOUTH"
     ],
-    "trainers": [
-      "BUG_CATCHER_19"
+    "parties": [
+      {
+        "Bug Catcher Wayne Scaling": [
+          "BUG_CATCHER_19"
+        ]
+      }
     ],
     "locations": [
       "ILEX_FOREST_ANTIDOTE",
@@ -1726,10 +1926,14 @@
       "REGION_POKECENTER_2F",
       "REGION_WILLS_ROOM"
     ],
-    "trainers": [
-      "RIVAL_MEGANIUM_4",
-      "RIVAL_TYPHLOSION_4",
-      "RIVAL_FERALIGATR_4"
+    "parties": [
+      {
+        "Indigo Plateau Rival Scaling": [
+          "RIVAL_MEGANIUM_4",
+          "RIVAL_TYPHLOSION_4",
+          "RIVAL_FERALIGATR_4"
+        ]
+      }
     ],
     "locations": [],
     "events": []
@@ -1739,9 +1943,6 @@
     "exits": [
       "REGION_BRUNOS_ROOM",
       "REGION_LANCES_ROOM"
-    ],
-    "trainers": [
-      "KAREN_1"
     ],
     "locations": [],
     "events": [
@@ -1753,9 +1954,6 @@
     "exits": [
       "REGION_WILLS_ROOM",
       "REGION_BRUNOS_ROOM"
-    ],
-    "trainers": [
-      "KOGA_1"
     ],
     "locations": [],
     "events": [
@@ -1780,10 +1978,22 @@
       "REGION_LAKE_OF_RAGE_MAGIKARP_HOUSE",
       "REGION_LAKE_OF_RAGE:WATER"
     ],
-    "trainers": [
-      "FISHER_8",
-      "FISHER_9",
-      "COOLTRAINERF_2"
+    "parties": [
+      {
+        "Fisher Andre Scaling": [
+          "FISHER_8"
+        ]
+      },
+      {
+        "Fisher Raymond Scaling": [
+          "FISHER_9"
+        ]
+      },
+      {
+        "Cool Trainer Lois Scaling": [
+          "COOLTRAINERF_2"
+        ]
+      }
     ],
     "locations": [
       "LAKE_OF_RAGE_HIDDEN_FULL_RESTORE",
@@ -1815,8 +2025,12 @@
       "REGION_LAKE_OF_RAGE",
       "REGION_LAKE_OF_RAGE_HIDDEN_POWER_HOUSE"
     ],
-    "trainers": [
-      "COOLTRAINERM_2"
+    "parties": [
+      {
+        "Cool Trainer Aaron Scaling": [
+          "COOLTRAINERM_2"
+        ]
+      }
     ],
     "locations": [
       "LAKE_OF_RAGE_ELIXER",
@@ -1851,8 +2065,20 @@
       "REGION_KARENS_ROOM",
       "REGION_HALL_OF_FAME"
     ],
-    "trainers": [
-      "CHAMPION_1"
+    "parties": [
+      {
+        "Elite Four Scaling": [
+          "WILL_1",
+          "KOGA_1",
+          "BRUNO_1",
+          "KAREN_1"
+        ]
+      },
+      {
+        "Champion Lance Scaling": [
+          "CHAMPION_1"
+        ]
+      }
     ],
     "locations": [],
     "events": []
@@ -1924,13 +2150,17 @@
     "exits": [
       "REGION_MAHOGANY_TOWN"
     ],
-    "trainers": [
-      "SKIER_1",
-      "SKIER_2",
-      "BOARDER_1",
-      "BOARDER_2",
-      "BOARDER_3",
-      "PRYCE_1"
+    "parties": [
+      {
+        "Mahogany Gym Scaling": [
+          "SKIER_1",
+          "SKIER_2",
+          "BOARDER_1",
+          "BOARDER_2",
+          "BOARDER_3",
+          "PRYCE_1"
+        ]
+      }
     ],
     "locations": [
       "TM16_ICY_WIND",
@@ -2019,10 +2249,14 @@
       "REGION_ROUTE_4",
       "REGION_MOUNT_MOON_SQUARE"
     ],
-    "trainers": [
-      "RIVAL_MEGANIUM_3",
-      "RIVAL_TYPHLOSION_3",
-      "RIVAL_FERALIGATR_3"
+    "parties": [
+      {
+        "Mt. Moon Rival Scaling": [
+          "RIVAL_MEGANIUM_3",
+          "RIVAL_TYPHLOSION_3",
+          "RIVAL_FERALIGATR_3"
+        ]
+      }
     ],
     "locations": [],
     "events": [
@@ -2057,8 +2291,12 @@
       "REGION_MOUNT_MORTAR_3F_OUTSIDE:EAST",
       "REGION_MOUNT_MORTAR_1F_INSIDE:STRENGTH"
     ],
-    "trainers": [
-      "POKEMANIAC_15"
+    "parties": [
+      {
+        "Pokemaniac Miller Scaling": [
+          "POKEMANIAC_15"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_POKEMANIAC_MILLER"
@@ -2070,8 +2308,12 @@
     "exits": [
       "REGION_MOUNT_MORTAR_1F_INSIDE:FRONT"
     ],
-    "trainers": [
-      "SUPER_NERD_14"
+    "parties": [
+      {
+        "Super Nerd Markus Scaling": [
+          "SUPER_NERD_14"
+        ]
+      }
     ],
     "locations": [
       "MOUNT_MORTAR_1F_INSIDE_ESCAPE_ROPE",
@@ -2163,8 +2405,12 @@
       "REGION_MOUNT_MORTAR_2F_OUTSIDE",
       "REGION_MOUNT_MORTAR_1F_INSIDE:BACK"
     ],
-    "trainers": [
-      "SUPER_NERD_13"
+    "parties": [
+      {
+        "Super Nerd Hugh Scaling": [
+          "SUPER_NERD_13"
+        ]
+      }
     ],
     "locations": [
       "MOUNT_MORTAR_2F_INSIDE_DRAGON_SCALE",
@@ -2198,8 +2444,12 @@
       "REGION_MOUNT_MORTAR_B1F",
       "REGION_MOUNT_MORTAR_1F_INSIDE:BACK"
     ],
-    "trainers": [
-      "BLACKBELT_T_6"
+    "parties": [
+      {
+        "Blackbelt Kiyo Scaling": [
+          "BLACKBELT_T_6"
+        ]
+      }
     ],
     "statics": [
       "Tyrogue"
@@ -2254,11 +2504,27 @@
       "REGION_ROUTE_36_NATIONAL_PARK_GATE",
       "REGION_ROUTE_35_NATIONAL_PARK_GATE"
     ],
-    "trainers": [
-      "SCHOOLBOY_1",
-      "POKEFANM_1",
-      "POKEFANF_1",
-      "LASS_4"
+    "parties": [
+      {
+        "School Boy Jack Scaling": [
+          "SCHOOLBOY_1"
+        ]
+      },
+      {
+        "PokeFan William Scaling": [
+          "POKEFANM_1"
+        ]
+      },
+      {
+        "PokeFan Beverly Scaling": [
+          "POKEFANF_1"
+        ]
+      },
+      {
+        "Lass Krise Scaling": [
+          "LASS_4"
+        ]
+      }
     ],
     "locations": [
       "NATIONAL_PARK_HIDDEN_FULL_HEAL",
@@ -2337,8 +2603,12 @@
     "exits": [
       "REGION_OLIVINE_CITY"
     ],
-    "trainers": [
-      "JASMINE_1"
+    "parties": [
+      {
+        "Olivine Gym Scaling": [
+          "JASMINE_1"
+        ]
+      }
     ],
     "locations": [
       "TM23_IRON_TAIL",
@@ -2371,9 +2641,17 @@
       "REGION_OLIVINE_LIGHTHOUSE_1F",
       "REGION_OLIVINE_LIGHTHOUSE_3F"
     ],
-    "trainers": [
-      "GENTLEMAN_5",
-      "SAILOR_2"
+    "parties": [
+      {
+        "Gentleman Alfred Scaling": [
+          "GENTLEMAN_5"
+        ]
+      },
+      {
+        "Sailor Huey Scaling": [
+          "SAILOR_2"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_GENTLEMAN_ALFRED",
@@ -2387,10 +2665,22 @@
       "REGION_OLIVINE_LIGHTHOUSE_4F",
       "REGION_OLIVINE_LIGHTHOUSE_2F"
     ],
-    "trainers": [
-      "BIRD_KEEPER_4",
-      "GENTLEMAN_1",
-      "SAILOR_3"
+    "parties": [
+      {
+        "Bird Keeper Theo Scaling": [
+          "BIRD_KEEPER_4"
+        ]
+      },
+      {
+        "Gentleman Preston Scaling": [
+          "GENTLEMAN_1"
+        ]
+      },
+      {
+        "Sailor Terrell Scaling": [
+          "SAILOR_3"
+        ]
+      }
     ],
     "locations": [
       "OLIVINE_LIGHTHOUSE_3F_ETHER",
@@ -2406,9 +2696,17 @@
       "REGION_OLIVINE_LIGHTHOUSE_3F",
       "REGION_OLIVINE_LIGHTHOUSE_5F"
     ],
-    "trainers": [
-      "LASS_5",
-      "SAILOR_4"
+    "parties": [
+      {
+        "Lass Connie Scaling": [
+          "LASS_5"
+        ]
+      },
+      {
+        "Sailor Kent Scaling": [
+          "SAILOR_4"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_LASS_CONNIE",
@@ -2422,9 +2720,17 @@
       "REGION_OLIVINE_LIGHTHOUSE_6F",
       "REGION_OLIVINE_LIGHTHOUSE_4F"
     ],
-    "trainers": [
-      "SAILOR_5",
-      "BIRD_KEEPER_6"
+    "parties": [
+      {
+        "Sailor Ernest Scaling": [
+          "SAILOR_5"
+        ]
+      },
+      {
+        "Bird Keeper Denis Scaling": [
+          "BIRD_KEEPER_6"
+        ]
+      }
     ],
     "locations": [
       "OLIVINE_LIGHTHOUSE_5F_RARE_CANDY",
@@ -2538,9 +2844,13 @@
     "exits": [
       "REGION_PEWTER_CITY"
     ],
-    "trainers": [
-      "CAMPER_18",
-      "BROCK_1"
+    "parties": [
+      {
+        "Pewter Gym Scaling": [
+          "CAMPER_18",
+          "BROCK_1"
+        ]
+      }
     ],
     "locations": [
       "BOULDER_BADGE_FROM_BROCK",
@@ -2670,8 +2980,12 @@
       "REGION_GOLDENROD_CITY",
       "REGION_RADIO_TOWER_2F"
     ],
-    "trainers": [
-      "GRUNTM_3"
+    "parties": [
+      {
+        "Rocket Grunt M 3 Scaling": [
+          "GRUNTM_3"
+        ]
+      }
     ],
     "locations": [
       "RADIO_CARD",
@@ -2687,11 +3001,27 @@
       "REGION_RADIO_TOWER_3F:NOCARDKEY",
       "REGION_RADIO_TOWER_1F"
     ],
-    "trainers": [
-      "GRUNTM_4",
-      "GRUNTM_5",
-      "GRUNTM_6",
-      "GRUNTF_2"
+    "parties": [
+      {
+        "Rocket Grunt M 4 Scaling": [
+          "GRUNTM_4"
+        ]
+      },
+      {
+        "Rocket Grunt M 5 Scaling": [
+          "GRUNTM_5"
+        ]
+      },
+      {
+        "Rocket Grunt M 6 Scaling": [
+          "GRUNTM_6"
+        ]
+      },
+      {
+        "Rocket Grunt F 2 Scaling": [
+          "GRUNTF_2"
+        ]
+      }
     ],
     "locations": [
       "BUENA_BLUE_CARD",
@@ -2709,10 +3039,22 @@
       "REGION_RADIO_TOWER_3F:CARDKEY",
       "REGION_RADIO_TOWER_4F:NOCARDKEY"
     ],
-    "trainers": [
-      "GRUNTM_8",
-      "GRUNTM_7",
-      "SCIENTIST_4"
+    "parties": [
+      {
+        "Grunt M 8 Scaling": [
+          "GRUNTM_8"
+        ]
+      },
+      {
+        "Grunt M 7 Scaling": [
+          "GRUNTM_7"
+        ]
+      },
+      {
+        "Scientist Marc Scaling": [
+          "SCIENTIST_4"
+        ]
+      }
     ],
     "locations": [
       "SUNNY_DAY_FROM_RADIO_TOWER",
@@ -2728,8 +3070,12 @@
       "REGION_RADIO_TOWER_3F:NOCARDKEY",
       "REGION_RADIO_TOWER_4F:CARDKEY"
     ],
-    "trainers": [
-      "GRUNTM_9"
+    "parties": [
+      {
+        "Grunt M 9 Scaling": [
+          "GRUNTM_9"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_ROCKET_GRUNTM_9"
@@ -2742,9 +3088,17 @@
       "REGION_RADIO_TOWER_5F:NOCARDKEY",
       "REGION_RADIO_TOWER_3F:NOCARDKEY"
     ],
-    "trainers": [
-      "GRUNTM_10",
-      "SCIENTIST_5"
+    "parties": [
+      {
+        "Grunt M 10 Scaling": [
+          "GRUNTM_10"
+        ]
+      },
+      {
+        "Scientist Rich Scaling": [
+          "SCIENTIST_5"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_ROCKET_GRUNTM_10",
@@ -2758,9 +3112,17 @@
       "REGION_RADIO_TOWER_5F:CARDKEY",
       "REGION_RADIO_TOWER_3F:CARDKEY"
     ],
-    "trainers": [
-      "EXECUTIVEM_2",
-      "GRUNTF_4"
+    "parties": [
+      {
+        "Executive M 2 Scaling": [
+          "EXECUTIVEM_2"
+        ]
+      },
+      {
+        "Grunt F 4 Scaling": [
+          "GRUNTF_4"
+        ]
+      }
     ],
     "locations": [
       "PINK_BOW_FROM_MARY",
@@ -2774,8 +3136,12 @@
     "exits": [
       "REGION_RADIO_TOWER_4F:NOCARDKEY"
     ],
-    "trainers": [
-      "EXECUTIVEM_3"
+    "parties": [
+      {
+        "Executive M 3 Scaling": [
+          "EXECUTIVEM_3"
+        ]
+      }
     ],
     "locations": [
       "BEAT_ROCKET_EXECUTIVEM_3"
@@ -2789,9 +3155,17 @@
     "exits": [
       "REGION_RADIO_TOWER_4F:CARDKEY"
     ],
-    "trainers": [
-      "EXECUTIVEF_1",
-      "EXECUTIVEM_1"
+    "parties": [
+      {
+        "Executive F 1 Scaling": [
+          "EXECUTIVEF_1"
+        ]
+      },
+      {
+        "Executive M 1 Scaling": [
+          "EXECUTIVEM_1"
+        ]
+      }
     ],
     "locations": [
       "RADIO_TOWER_5F_ULTRA_BALL",
@@ -2853,9 +3227,17 @@
       "REGION_VIRIDIAN_CITY",
       "REGION_PALLET_TOWN"
     ],
-    "trainers": [
-      "SCHOOLBOY_5",
-      "COOLTRAINERF_14"
+    "parties": [
+      {
+        "School Boy Danny Scaling": [
+          "SCHOOLBOY_5"
+        ]
+      },
+      {
+        "Cool Trainer Quinn Scaling": [
+          "COOLTRAINERF_14"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_SCHOOLBOY_DANNY",
@@ -2889,9 +3271,17 @@
       "REGION_LAVENDER_TOWN",
       "REGION_ROCK_TUNNEL_1F"
     ],
-    "trainers": [
-      "HIKER_17",
-      "POKEFANM_3"
+    "parties": [
+      {
+        "Hiker Jim Scaling": [
+          "HIKER_17"
+        ]
+      },
+      {
+        "PokeFan Robert": [
+          "POKEFANM_3"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_HIKER_JIM",
@@ -2905,11 +3295,27 @@
       "REGION_VERMILION_CITY",
       "REGION_ROUTE_12"
     ],
-    "trainers": [
-      "YOUNGSTER_11",
-      "YOUNGSTER_12",
-      "PSYCHIC_T_3",
-      "PSYCHIC_T_4"
+    "parties": [
+      {
+        "Youngster Owen Scaling": [
+          "YOUNGSTER_11"
+        ]
+      },
+      {
+        "Youngster Jason Scaling": [
+          "YOUNGSTER_12"
+        ]
+      },
+      {
+        "Psychic Herman Scaling": [
+          "PSYCHIC_T_3"
+        ]
+      },
+      {
+        "Psychic Fidel Scaling": [
+          "PSYCHIC_T_4"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_11_HIDDEN_REVIVE",
@@ -2929,11 +3335,27 @@
       "REGION_ROUTE_11",
       "REGION_ROUTE_12_SUPER_ROD_HOUSE"
     ],
-    "trainers": [
-      "FISHER_4",
-      "FISHER_13",
-      "FISHER_14",
-      "FISHER_15"
+    "parties": [
+      {
+        "Fisher Kyle Scaling": [
+          "FISHER_4"
+        ]
+      },
+      {
+        "Fisher Martin Scaling": [
+          "FISHER_13"
+        ]
+      },
+      {
+        "Fisher Stephen Scaling": [
+          "FISHER_14"
+        ]
+      },
+      {
+        "Fisher Barney Scaling": [
+          "FISHER_15"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_12_CALCIUM",
@@ -2962,12 +3384,32 @@
       "REGION_ROUTE_12",
       "REGION_ROUTE_14"
     ],
-    "trainers": [
-      "POKEFANM_12",
-      "POKEFANM_4",
-      "BIRD_KEEPER_15",
-      "BIRD_KEEPER_16",
-      "HIKER_16"
+    "parties": [
+      {
+        "PokeFan Alex Scaling": [
+          "POKEFANM_12"
+        ]
+      },
+      {
+        "PokeFan Joshua Scaling": [
+          "POKEFANM_4"
+        ]
+      },
+      {
+        "Bird Keeper Perry Scaling": [
+          "BIRD_KEEPER_15"
+        ]
+      },
+      {
+        "Bird Keeper Bret Scaling": [
+          "BIRD_KEEPER_16"
+        ]
+      },
+      {
+        "Hiker Kenny Scaling": [
+          "HIKER_16"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_13_HIDDEN_CALCIUM",
@@ -2985,10 +3427,22 @@
       "REGION_ROUTE_13",
       "REGION_ROUTE_15"
     ],
-    "trainers": [
-      "POKEFANM_5",
-      "BIRD_KEEPER_9",
-      "POKEFANM_6"
+    "parties": [
+      {
+        "PokeFan Carter Scaling": [
+          "POKEFANM_5"
+        ]
+      },
+      {
+        "Bird Keeper Roy Scaling": [
+          "BIRD_KEEPER_9"
+        ]
+      },
+      {
+        "PokeFan Trevor Scaling": [
+          "POKEFANM_6"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_POKEFANM_CARTER",
@@ -3003,13 +3457,37 @@
       "REGION_ROUTE_14",
       "REGION_ROUTE_15_FUCHSIA_GATE"
     ],
-    "trainers": [
-      "TEACHER_1",
-      "TEACHER_2",
-      "SCHOOLBOY_2",
-      "SCHOOLBOY_6",
-      "SCHOOLBOY_4",
-      "SCHOOLBOY_9"
+    "parties": [
+      {
+        "Teacher Colette Scaling": [
+          "TEACHER_1"
+        ]
+      },
+      {
+        "Teacher Hillary Scaling": [
+          "TEACHER_2"
+        ]
+      },
+      {
+        "School Boy Kip Scaling": [
+          "SCHOOLBOY_2"
+        ]
+      },
+      {
+        "School Boy Tommy Scaling": [
+          "SCHOOLBOY_6"
+        ]
+      },
+      {
+        "School Boy Johnny Scaling": [
+          "SCHOOLBOY_4"
+        ]
+      },
+      {
+        "School Boy Billy Scaling": [
+          "SCHOOLBOY_9"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_15_PP_UP",
@@ -3064,11 +3542,27 @@
       "REGION_ROUTE_16",
       "REGION_ROUTE_17_ROUTE_18_GATE"
     ],
-    "trainers": [
-      "BIKER_6",
-      "BIKER_7",
-      "BIKER_8",
-      "BIKER_9"
+    "parties": [
+      {
+        "Biker Charles Scaling": [
+          "BIKER_6"
+        ]
+      },
+      {
+        "Biker Riley Scaling": [
+          "BIKER_7"
+        ]
+      },
+      {
+        "Biker Joel Scaling": [
+          "BIKER_8"
+        ]
+      },
+      {
+        "Biker Glenn Scaling": [
+          "BIKER_9"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_17_HIDDEN_MAX_ELIXER",
@@ -3095,9 +3589,17 @@
       "REGION_FUCHSIA_CITY",
       "REGION_ROUTE_17_ROUTE_18_GATE"
     ],
-    "trainers": [
-      "BIRD_KEEPER_10",
-      "BIRD_KEEPER_11"
+    "parties": [
+      {
+        "Bird Keeper Boris Scaling": [
+          "BIRD_KEEPER_10"
+        ]
+      },
+      {
+        "Bird Keeper Bob Scaling": [
+          "BIRD_KEEPER_11"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_BIRD_KEEPER_BORIS",
@@ -3113,11 +3615,27 @@
       "REGION_ROUTE_20",
       "REGION_ROUTE_19_FUCHSIA_GATE"
     ],
-    "trainers": [
-      "SWIMMERF_12",
-      "SWIMMERM_1",
-      "SWIMMERM_14",
-      "SWIMMERM_15"
+    "parties": [
+      {
+        "Swimmer Dawn Scaling": [
+          "SWIMMERF_12"
+        ]
+      },
+      {
+        "Swimmer Harold Scaling": [
+          "SWIMMERM_1"
+        ]
+      },
+      {
+        "Swimmer Jerome Scaling": [
+          "SWIMMERM_14"
+        ]
+      },
+      {
+        "Swimmer Tucker Scaling": [
+          "SWIMMERM_15"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_SWIMMERF_DAWN",
@@ -3144,10 +3662,22 @@
       "REGION_ROUTE_2:NORTHEAST",
       "REGION_ROUTE_2:SOUTHEAST"
     ],
-    "trainers": [
-      "BUG_CATCHER_3",
-      "BUG_CATCHER_2",
-      "BUG_CATCHER_12"
+    "parties": [
+      {
+        "Bug Catcher Ed Scaling": [
+          "BUG_CATCHER_3"
+        ]
+      },
+      {
+        "Bug Catcher Rob Scaling": [
+          "BUG_CATCHER_2"
+        ]
+      },
+      {
+        "Bug Catcher Doug Scaling": [
+          "BUG_CATCHER_12"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_2_DIRE_HIT",
@@ -3213,10 +3743,22 @@
       "REGION_ROUTE_19",
       "REGION_SEAFOAM_GYM"
     ],
-    "trainers": [
-      "SWIMMERF_14",
-      "SWIMMERF_15",
-      "SWIMMERM_17"
+    "parties": [
+      {
+        "Swimmer Nicole Scaling": [
+          "SWIMMERF_14"
+        ]
+      },
+      {
+        "Swimmer Lori Scaling": [
+          "SWIMMERF_15"
+        ]
+      },
+      {
+        "Swimmer Cameron Scaling": [
+          "SWIMMERM_17"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_SWIMMERF_NICOLE",
@@ -3233,10 +3775,22 @@
       "REGION_PALLET_TOWN",
       "REGION_CINNABAR_ISLAND"
     ],
-    "trainers": [
-      "SWIMMERM_18",
-      "SWIMMERF_17",
-      "FISHER_3"
+    "parties": [
+      {
+        "Swimmer Seth Scaling": [
+          "SWIMMERM_18"
+        ]
+      },
+      {
+        "Swimmer Nikki Scaling": [
+          "SWIMMERF_17"
+        ]
+      },
+      {
+        "Fisher Arnold Scaling": [
+          "FISHER_3"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_SWIMMERM_SETH",
@@ -3278,15 +3832,19 @@
       "REGION_ROUTE_24",
       "REGION_BILLS_HOUSE"
     ],
-    "trainers": [
-      "SCHOOLBOY_7",
-      "LASS_11",
-      "SCHOOLBOY_8",
-      "LASS_7",
-      "CAMPER_6",
-      "LASS_8",
-      "SUPER_NERD_8",
-      "COOLTRAINERM_17"
+    "parties": [
+      {
+        "Nugget Bridge Scaling": [
+          "SCHOOLBOY_7",
+          "LASS_11",
+          "SCHOOLBOY_8",
+          "LASS_7",
+          "CAMPER_6",
+          "LASS_8",
+          "SUPER_NERD_8",
+          "COOLTRAINERM_17"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_25_HIDDEN_POTION",
@@ -3312,13 +3870,37 @@
       "REGION_ROUTE_26_HEAL_HOUSE",
       "REGION_DAY_OF_WEEK_SIBLINGS_HOUSE"
     ],
-    "trainers": [
-      "COOLTRAINERM_9",
-      "COOLTRAINERM_10",
-      "COOLTRAINERF_8",
-      "COOLTRAINERF_9",
-      "PSYCHIC_T_9",
-      "FISHER_21"
+    "parties": [
+      {
+        "Cool Trainer Jake Scaling": [
+          "COOLTRAINERM_9"
+        ]
+      },
+      {
+        "Cool Trainer Gaven Scaling": [
+          "COOLTRAINERM_10"
+        ]
+      },
+      {
+        "Cool Trainer Joyce Scaling": [
+          "COOLTRAINERF_8"
+        ]
+      },
+      {
+        "Cool Trainer Beth Scaling": [
+          "COOLTRAINERF_9"
+        ]
+      },
+      {
+        "Psychic Richard Scaling": [
+          "PSYCHIC_T_9"
+        ]
+      },
+      {
+        "Fisher Scott Scaling": [
+          "FISHER_21"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_26_MAX_ELIXER",
@@ -3368,8 +3950,12 @@
       "REGION_ROUTE_27:WEST",
       "REGION_ROUTE_27:EAST"
     ],
-    "trainers": [
-      "COOLTRAINERF_11"
+    "parties": [
+      {
+        "Cool Trainer Megan Scaling": [
+          "COOLTRAINERF_11"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_COOLTRAINERF_MEGAN"
@@ -3383,11 +3969,27 @@
       "REGION_ROUTE_27:CENTER",
       "REGION_ROUTE_27:EASTWHIRLPOOL"
     ],
-    "trainers": [
-      "PSYCHIC_T_10",
-      "COOLTRAINERM_11",
-      "COOLTRAINERM_12",
-      "COOLTRAINERF_10"
+    "parties": [
+      {
+        "Psychic Gilbert Scaling": [
+          "PSYCHIC_T_10"
+        ]
+      },
+      {
+        "Cool Trainer Blake Scaling": [
+          "COOLTRAINERM_11"
+        ]
+      },
+      {
+        "Cool Trainer Brian Scaling": [
+          "COOLTRAINERM_12"
+        ]
+      },
+      {
+        "Cool Trainer Reena Scaling": [
+          "COOLTRAINERF_10"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_PSYCHIC_GILBERT",
@@ -3402,8 +4004,12 @@
     "exits": [
       "REGION_ROUTE_27:EAST"
     ],
-    "trainers": [
-      "BIRD_KEEPER_14"
+    "parties": [
+      {
+        "Bird Keeper Jose Scaling": [
+          "BIRD_KEEPER_14"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_27_TM_SOLARBEAM",
@@ -3474,11 +4080,27 @@
       "REGION_ROUTE_4",
       "REGION_MOUNT_MOON"
     ],
-    "trainers": [
-      "FIREBREATHER_1",
-      "YOUNGSTER_9",
-      "YOUNGSTER_10",
-      "FIREBREATHER_4"
+    "parties": [
+      {
+        "Fire Breather Otis Scaling": [
+          "FIREBREATHER_1"
+        ]
+      },
+      {
+        "Youngster Warren Scaling": [
+          "YOUNGSTER_9"
+        ]
+      },
+      {
+        "Youngster Jimmy Scaling": [
+          "YOUNGSTER_10"
+        ]
+      },
+      {
+        "Fire Breather Burt Scaling": [
+          "FIREBREATHER_4"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_FIREBREATHER_OTIS",
@@ -3496,10 +4118,22 @@
       "REGION_ROUTE_30_BERRY_HOUSE",
       "REGION_MR_POKEMONS_HOUSE"
     ],
-    "trainers": [
-      "YOUNGSTER_2",
-      "YOUNGSTER_1",
-      "BUG_CATCHER_1"
+    "parties": [
+      {
+        "Youngster Mikey Scaling": [
+          "YOUNGSTER_2"
+        ]
+      },
+      {
+        "Youngster Joey Scaling": [
+          "YOUNGSTER_1"
+        ]
+      },
+      {
+        "Bug Catcher Don Scaling": [
+          "BUG_CATCHER_1"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_30_ANTIDOTE",
@@ -3529,8 +4163,12 @@
       "REGION_ROUTE_31_VIOLET_GATE",
       "REGION_DARK_CAVE_VIOLET_ENTRANCE"
     ],
-    "trainers": [
-      "BUG_CATCHER_4"
+    "parties": [
+      {
+        "Bug Catcher Wade Scaling": [
+          "BUG_CATCHER_4"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_31_POKE_BALL",
@@ -3572,15 +4210,47 @@
       "REGION_ROUTE_32_POKECENTER_1F",
       "REGION_UNION_CAVE_1F"
     ],
-    "trainers": [
-      "CAMPER_1",
-      "FISHER_1",
-      "FISHER_2",
-      "FISHER_5",
-      "PICNICKER_1",
-      "YOUNGSTER_3",
-      "YOUNGSTER_4",
-      "BIRD_KEEPER_13"
+    "parties": [
+      {
+        "Camper Roland Scaling": [
+          "CAMPER_1"
+        ]
+      },
+      {
+        "Fisher Justin Scaling": [
+          "FISHER_1"
+        ]
+      },
+      {
+        "Fisher Ralph Scaling": [
+          "FISHER_2"
+        ]
+      },
+      {
+        "Fisher Henry Scaling": [
+          "FISHER_5"
+        ]
+      },
+      {
+        "Picnicker Liz Scaling": [
+          "PICNICKER_1"
+        ]
+      },
+      {
+        "Youngster Albert Scaling": [
+          "YOUNGSTER_3"
+        ]
+      },
+      {
+        "Youngster Gordon Scaling": [
+          "YOUNGSTER_4"
+        ]
+      },
+      {
+        "Bird Keeper Peter Scaling": [
+          "BIRD_KEEPER_13"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_32_GREAT_BALL",
@@ -3626,8 +4296,12 @@
       "REGION_AZALEA_TOWN",
       "REGION_UNION_CAVE_1F"
     ],
-    "trainers": [
-      "HIKER_5"
+    "parties": [
+      {
+        "Hiker Anthony Scaling": [
+          "HIKER_5"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_HIKER_ANTHONY",
@@ -3643,13 +4317,37 @@
       "REGION_ROUTE_34:WATER",
       "REGION_DAY_CARE"
     ],
-    "trainers": [
-      "CAMPER_2",
-      "PICNICKER_2",
-      "YOUNGSTER_5",
-      "YOUNGSTER_6",
-      "POKEFANM_7",
-      "OFFICER_1"
+    "parties": [
+      {
+        "Camper Todd Scaling": [
+          "CAMPER_2"
+        ]
+      },
+      {
+        "Picnicker Gina Scaling": [
+          "PICNICKER_2"
+        ]
+      },
+      {
+        "Youngster Samuel Scaling": [
+          "YOUNGSTER_5"
+        ]
+      },
+      {
+        "Youngster Ian Scaling": [
+          "YOUNGSTER_6"
+        ]
+      },
+      {
+        "PokeFan Brandon Scaling": [
+          "POKEFANM_7"
+        ]
+      },
+      {
+        "Officer Keith Scaling": [
+          "OFFICER_1"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_34_HIDDEN_SUPER_POTION",
@@ -3666,10 +4364,14 @@
     "exits": [
       "REGION_ROUTE_34"
     ],
-    "trainers": [
-      "COOLTRAINERF_6",
-      "COOLTRAINERF_17",
-      "COOLTRAINERF_5"
+    "parties": [
+      {
+        "Soft Sand Girls Scaling": [
+          "COOLTRAINERF_6",
+          "COOLTRAINERF_17",
+          "COOLTRAINERF_5"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_34_NUGGET",
@@ -3700,16 +4402,52 @@
       "REGION_ROUTE_36:WEST",
       "REGION_ROUTE_35:FRUITTREE"
     ],
-    "trainers": [
-      "BIRD_KEEPER_3",
-      "JUGGLER_1",
-      "CAMPER_3",
-      "CAMPER_4",
-      "PICNICKER_3",
-      "PICNICKER_4",
-      "BUG_CATCHER_8",
-      "FIREBREATHER_6",
-      "OFFICER_2"
+    "parties": [
+      {
+        "Bird Keeper Bryan Scaling": [
+          "BIRD_KEEPER_3"
+        ]
+      },
+      {
+        "Juggler Irwin Scaling": [
+          "JUGGLER_1"
+        ]
+      },
+      {
+        "Camper Ivan Scaling": [
+          "CAMPER_3"
+        ]
+      },
+      {
+        "Camper Elliot Scaling": [
+          "CAMPER_4"
+        ]
+      },
+      {
+        "Picnicker Brooke Scaling": [
+          "PICNICKER_3"
+        ]
+      },
+      {
+        "Picnicker Kim Scaling": [
+          "PICNICKER_4"
+        ]
+      },
+      {
+        "Bug Catcher Arnie Scaling": [
+          "BUG_CATCHER_8"
+        ]
+      },
+      {
+        "Fire Breather Walt Scaling": [
+          "FIREBREATHER_6"
+        ]
+      },
+      {
+        "Officer Dirk Scaling": [
+          "OFFICER_2"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_35_TM_ROLLOUT",
@@ -3784,9 +4522,17 @@
       "REGION_ROUTE_36:EAST",
       "REGION_ROUTE_37"
     ],
-    "trainers": [
-      "SCHOOLBOY_3",
-      "PSYCHIC_T_7"
+    "parties": [
+      {
+        "School Boy Alan Scaling": [
+          "SCHOOLBOY_3"
+        ]
+      },
+      {
+        "Psychic Mark Scaling": [
+          "PSYCHIC_T_7"
+        ]
+      }
     ],
     "locations": [
       "FRUITTREE_ROUTE_36",
@@ -3820,10 +4566,18 @@
       "REGION_ROUTE_36:EAST",
       "REGION_ROUTE_36:WEST"
     ],
-    "trainers": [
-      "TWINS_2",
-      "TWINS_3",
-      "PSYCHIC_T_5"
+    "parties": [
+      {
+        "Twins Ann and Anne Scaling": [
+          "TWINS_2",
+          "TWINS_3"
+        ]
+      },
+      {
+        "Psychic Greg Scaling": [
+          "PSYCHIC_T_5"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_37_HIDDEN_ETHER",
@@ -3842,13 +4596,37 @@
       "REGION_ROUTE_39",
       "REGION_ROUTE_38_ECRUTEAK_GATE"
     ],
-    "trainers": [
-      "BIRD_KEEPER_5",
-      "SAILOR_10",
-      "LASS_10",
-      "SCHOOLBOY_10",
-      "BEAUTY_16",
-      "BEAUTY_17"
+    "parties": [
+      {
+        "Bird Keeper Toby Scaling": [
+          "BIRD_KEEPER_5"
+        ]
+      },
+      {
+        "Sailor Harry Scaling": [
+          "SAILOR_10"
+        ]
+      },
+      {
+        "Lass Dana Scaling": [
+          "LASS_10"
+        ]
+      },
+      {
+        "School Boy Chad Scaling": [
+          "SCHOOLBOY_10"
+        ]
+      },
+      {
+        "Beauty Valerie Scaling": [
+          "BEAUTY_16"
+        ]
+      },
+      {
+        "Beauty Olivia Scaling": [
+          "BEAUTY_17"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_BIRD_KEEPER_TOBY",
@@ -3878,12 +4656,32 @@
       "REGION_ROUTE_39_BARN",
       "REGION_ROUTE_39_FARMHOUSE"
     ],
-    "trainers": [
-      "POKEFANM_2",
-      "POKEFANF_2",
-      "SAILOR_1",
-      "PSYCHIC_T_6",
-      "POKEFANF_6"
+    "parties": [
+      {
+        "PokeFan Derek Scaling": [
+          "POKEFANM_2"
+        ]
+      },
+      {
+        "PokeFan Ruth Scaling": [
+          "POKEFANF_2"
+        ]
+      },
+      {
+        "Sailor Eugene Scaling": [
+          "SAILOR_1"
+        ]
+      },
+      {
+        "Psychic Norman Scaling": [
+          "PSYCHIC_T_6"
+        ]
+      },
+      {
+        "PokeFan Jaime Scaling": [
+          "POKEFANF_6"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_39_HIDDEN_NUGGET",
@@ -3922,10 +4720,22 @@
       "REGION_CERULEAN_CITY",
       "REGION_MOUNT_MOON"
     ],
-    "trainers": [
-      "BIRD_KEEPER_8",
-      "PICNICKER_6",
-      "PICNICKER_7"
+    "parties": [
+      {
+        "Bird Keeper Hank Scaling": [
+          "BIRD_KEEPER_8"
+        ]
+      },
+      {
+        "Picnicker Hope Scaling": [
+          "PICNICKER_6"
+        ]
+      },
+      {
+        "Picnicker Sharon Scaling": [
+          "PICNICKER_7"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_4_HIDDEN_ULTRA_BALL",
@@ -3955,11 +4765,27 @@
       "REGION_ROUTE_40",
       "REGION_ROUTE_41"
     ],
-    "trainers": [
-      "SWIMMERF_1",
-      "SWIMMERF_2",
-      "SWIMMERM_2",
-      "SWIMMERM_3"
+    "parties": [
+      {
+        "Swimmer Elaine Scaling": [
+          "SWIMMERF_1"
+        ]
+      },
+      {
+        "Swimmer Paula Scaling": [
+          "SWIMMERF_2"
+        ]
+      },
+      {
+        "Swimmer Simon Scaling": [
+          "SWIMMERM_2"
+        ]
+      },
+      {
+        "Swimmer Randall Scaling": [
+          "SWIMMERM_3"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_SWIMMERF_ELAINE",
@@ -3988,17 +4814,57 @@
       "REGION_WHIRL_ISLAND_SW",
       "REGION_WHIRL_ISLAND_SE"
     ],
-    "trainers": [
-      "SWIMMERF_3",
-      "SWIMMERF_4",
-      "SWIMMERF_5",
-      "SWIMMERF_6",
-      "SWIMMERF_7",
-      "SWIMMERM_4",
-      "SWIMMERM_5",
-      "SWIMMERM_6",
-      "SWIMMERM_7",
-      "SWIMMERM_8"
+    "parties": [
+      {
+        "Swimmer Kaylee Scaling": [
+          "SWIMMERF_3"
+        ]
+      },
+      {
+        "Swimmer Susie Scaling": [
+          "SWIMMERF_4"
+        ]
+      },
+      {
+        "Swimmer Denise Scaling": [
+          "SWIMMERF_5"
+        ]
+      },
+      {
+        "Swimmer Kara Scaling": [
+          "SWIMMERF_6"
+        ]
+      },
+      {
+        "Swimmer Wendy Scaling": [
+          "SWIMMERF_7"
+        ]
+      },
+      {
+        "Swimmer Charlie Scaling": [
+          "SWIMMERM_4"
+        ]
+      },
+      {
+        "Swimmer George Scaling": [
+          "SWIMMERM_5"
+        ]
+      },
+      {
+        "Swimmer Berke Scaling": [
+          "SWIMMERM_6"
+        ]
+      },
+      {
+        "Swimmer Kirk Scaling": [
+          "SWIMMERM_7"
+        ]
+      },
+      {
+        "Swimmer Mathew Scaling": [
+          "SWIMMERM_8"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_41_HIDDEN_MAX_ETHER",
@@ -4060,10 +4926,22 @@
       "REGION_MOUNT_MORTAR_1F_OUTSIDE:EAST",
       "REGION_ROUTE_42:CENTER"
     ],
-    "trainers": [
-      "FISHER_7",
-      "POKEMANIAC_4",
-      "HIKER_6"
+    "parties": [
+      {
+        "Fisher Tully Scaling": [
+          "FISHER_7"
+        ]
+      },
+      {
+        "PokeManiac Shane Scaling": [
+          "POKEMANIAC_4"
+        ]
+      },
+      {
+        "Hiker Benjamin Scaling": [
+          "HIKER_6"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_FISHER_TULLY",
@@ -4089,13 +4967,37 @@
       "REGION_ROUTE_43_GATE",
       "REGION_ROUTE_43:FRUITTREE"
     ],
-    "trainers": [
-      "CAMPER_19",
-      "POKEMANIAC_5",
-      "POKEMANIAC_6",
-      "POKEMANIAC_7",
-      "FISHER_6",
-      "PICNICKER_20"
+    "parties": [
+      {
+        "Camper Spencer Scaling": [
+          "CAMPER_19"
+        ]
+      },
+      {
+        "PokeManiac Ben Scaling": [
+          "POKEMANIAC_5"
+        ]
+      },
+      {
+        "PokeManiac Brent Scaling": [
+          "POKEMANIAC_6"
+        ]
+      },
+      {
+        "PokeManiac Ron Scaling": [
+          "POKEMANIAC_7"
+        ]
+      },
+      {
+        "Fisher Marvin Scaling": [
+          "FISHER_6"
+        ]
+      },
+      {
+        "Picnicker Tiffany Scaling": [
+          "PICNICKER_20"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_43_MAX_ETHER",
@@ -4143,14 +5045,42 @@
       "REGION_MAHOGANY_TOWN",
       "REGION_ICE_PATH_1F:WEST"
     ],
-    "trainers": [
-      "BIRD_KEEPER_7",
-      "PSYCHIC_T_8",
-      "FISHER_10",
-      "FISHER_11",
-      "COOLTRAINERF_16",
-      "POKEMANIAC_13",
-      "COOLTRAINERM_19"
+    "parties": [
+      {
+        "Bird Keeper Vance Scaling": [
+          "BIRD_KEEPER_7"
+        ]
+      },
+      {
+        "Psychic Phil Scaling": [
+          "PSYCHIC_T_8"
+        ]
+      },
+      {
+        "Fisher Wilton Scaling": [
+          "FISHER_10"
+        ]
+      },
+      {
+        "Fisher Edgar Scaling": [
+          "FISHER_11"
+        ]
+      },
+      {
+        "Cool Trainer Cybil Scaling": [
+          "COOLTRAINERF_16"
+        ]
+      },
+      {
+        "PokeManiac Zach Scaling": [
+          "POKEMANIAC_13"
+        ]
+      },
+      {
+        "Cool Trainer Allen Scaling": [
+          "COOLTRAINERM_19"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_44_HIDDEN_ELIXER",
@@ -4175,14 +5105,42 @@
       "REGION_ROUTE_46",
       "REGION_DARK_CAVE_BLACKTHORN_ENTRANCE"
     ],
-    "trainers": [
-      "BLACKBELT_T_8",
-      "HIKER_7",
-      "HIKER_8",
-      "HIKER_20",
-      "HIKER_10",
-      "COOLTRAINERM_8",
-      "COOLTRAINERF_7"
+    "parties": [
+      {
+        "Blackbelt Kenji Scaling": [
+          "BLACKBELT_T_8"
+        ]
+      },
+      {
+        "Hiker Erik Scaling": [
+          "HIKER_7"
+        ]
+      },
+      {
+        "Hiker Michael Scaling": [
+          "HIKER_8"
+        ]
+      },
+      {
+        "Hiker Parry Scaling": [
+          "HIKER_20"
+        ]
+      },
+      {
+        "Hiker Timothy Scaling": [
+          "HIKER_10"
+        ]
+      },
+      {
+        "Cool Trainer Ryan Scaling": [
+          "COOLTRAINERM_8"
+        ]
+      },
+      {
+        "Cool Trainer Kelly Scaling": [
+          "COOLTRAINERF_7"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_45_ELIXER",
@@ -4207,10 +5165,22 @@
       "REGION_ROUTE_29_ROUTE_46_GATE",
       "REGION_DARK_CAVE_VIOLET_ENTRANCE"
     ],
-    "trainers": [
-      "CAMPER_11",
-      "PICNICKER_10",
-      "HIKER_11"
+    "parties": [
+      {
+        "Camper Ted Scaling": [
+          "CAMPER_11"
+        ]
+      },
+      {
+        "Picnicker Erin Scaling": [
+          "PICNICKER_10"
+        ]
+      },
+      {
+        "Hiker Bailey Scaling": [
+          "HIKER_11"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_46_X_SPEED",
@@ -4268,9 +5238,17 @@
       "REGION_ROUTE_6_UNDERGROUND_PATH_ENTRANCE",
       "REGION_ROUTE_6_SAFFRON_GATE"
     ],
-    "trainers": [
-      "POKEFANM_13",
-      "POKEFANM_14"
+    "parties": [
+      {
+        "PokeFan Rex Scaling": [
+          "POKEFANM_13"
+        ]
+      },
+      {
+        "PokeFan Allan Scaling": [
+          "POKEFANM_14"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_POKEFANM_REX",
@@ -4320,12 +5298,32 @@
       "REGION_LAVENDER_TOWN",
       "REGION_ROUTE_8_SAFFRON_GATE"
     ],
-    "trainers": [
-      "BIKER_3",
-      "BIKER_4",
-      "BIKER_5",
-      "SUPER_NERD_6",
-      "SUPER_NERD_7"
+    "parties": [
+      {
+        "Biker Dwayne Scaling": [
+          "BIKER_3"
+        ]
+      },
+      {
+        "Biker Harris Scaling": [
+          "BIKER_4"
+        ]
+      },
+      {
+        "Biker Zeke Scaling": [
+          "BIKER_5"
+        ]
+      },
+      {
+        "Super Nerd Sam Scaling": [
+          "SUPER_NERD_6"
+        ]
+      },
+      {
+        "Super Nerd Tom Scaling": [
+          "SUPER_NERD_7"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_BIKER_DWAYNE",
@@ -4353,13 +5351,37 @@
       "REGION_CERULEAN_CITY",
       "REGION_ROCK_TUNNEL_1F"
     ],
-    "trainers": [
-      "CAMPER_7",
-      "PICNICKER_13",
-      "CAMPER_8",
-      "PICNICKER_14",
-      "HIKER_13",
-      "HIKER_15"
+    "parties": [
+      {
+        "Camper Dean Scaling": [
+          "CAMPER_7"
+        ]
+      },
+      {
+        "Picnicker Heidi Scaling": [
+          "PICNICKER_13"
+        ]
+      },
+      {
+        "Camper Sid Scaling": [
+          "CAMPER_8"
+        ]
+      },
+      {
+        "Picnicker Edna Scaling": [
+          "PICNICKER_14"
+        ]
+      },
+      {
+        "Hiker Tim Scaling": [
+          "HIKER_13"
+        ]
+      },
+      {
+        "Hiker Sidney Scaling": [
+          "HIKER_15"
+        ]
+      }
     ],
     "locations": [
       "ROUTE_9_HIDDEN_ETHER",
@@ -4554,8 +5576,12 @@
       "REGION_UNION_CAVE_B1F:NORTH",
       "REGION_RUINS_OF_ALPH_HO_OH_CHAMBER"
     ],
-    "trainers": [
-      "PSYCHIC_T_1"
+    "parties": [
+      {
+        "Psychic Nathan Scaling": [
+          "PSYCHIC_T_1"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_PSYCHIC_NATHAN"
@@ -4628,12 +5654,16 @@
       "REGION_SAFFRON_CITY",
       "REGION_SAFFRON_GYM"
     ],
-    "trainers": [
-      "MEDIUM_6",
-      "PSYCHIC_T_2",
-      "MEDIUM_7",
-      "PSYCHIC_T_11",
-      "SABRINA_1"
+    "parties": [
+      {
+        "Saffron Gym Scaling": [
+          "MEDIUM_6",
+          "PSYCHIC_T_2",
+          "MEDIUM_7",
+          "PSYCHIC_T_11",
+          "SABRINA_1"
+        ]
+      }
     ],
     "locations": [
       "MARSH_BADGE_FROM_SABRINA",
@@ -4677,8 +5707,12 @@
     "exits": [
       "REGION_ROUTE_20"
     ],
-    "trainers": [
-      "BLAINE_1"
+    "parties": [
+      {
+        "Seafoam Gym Scaling": [
+          "BLAINE_1"
+        ]
+      }
     ],
     "locations": [
       "VOLCANO_BADGE_FROM_BLAINE"
@@ -4771,7 +5805,7 @@
     "exits": [
       "REGION_SILVER_CAVE_ROOM_2"
     ],
-    "trainers": [],
+    "parties": [],
     "locations": [],
     "events": [
       "EVENT_BEAT_RED"
@@ -4783,11 +5817,27 @@
       "REGION_AZALEA_TOWN",
       "REGION_SLOWPOKE_WELL_B2F"
     ],
-    "trainers": [
-      "GRUNTM_29",
-      "GRUNTM_2",
-      "GRUNTF_1",
-      "GRUNTM_1"
+    "parties": [
+      {
+        "Rocket Grunt M 29 Scaling": [
+          "GRUNTM_29"
+        ]
+      },
+      {
+        "Rocket Grunt M 2 Scaling": [
+          "GRUNTM_2"
+        ]
+      },
+      {
+        "Rocket Grunt F 1 Scaling": [
+          "GRUNTF_1"
+        ]
+      },
+      {
+        "Rocket Grunt M 1 Scaling": [
+          "GRUNTM_1"
+        ]
+      }
     ],
     "locations": [
       "SLOWPOKE_WELL_B1F_SUPER_POTION",
@@ -4824,8 +5874,12 @@
       "REGION_VIOLET_CITY",
       "REGION_SPROUT_TOWER_2F"
     ],
-    "trainers": [
-      "SAGE_1"
+    "parties": [
+      {
+        "Sage Chow Scaling": [
+          "SAGE_1"
+        ]
+      }
     ],
     "locations": [
       "SPROUT_TOWER_1F_PARLYZ_HEAL",
@@ -4839,9 +5893,17 @@
       "REGION_SPROUT_TOWER_1F",
       "REGION_SPROUT_TOWER_3F"
     ],
-    "trainers": [
-      "SAGE_2",
-      "SAGE_7"
+    "parties": [
+      {
+        "Sage Nico Scaling": [
+          "SAGE_2"
+        ]
+      },
+      {
+        "Sage Edmond Scaling": [
+          "SAGE_7"
+        ]
+      }
     ],
     "locations": [
       "SPROUT_TOWER_2F_X_ACCURACY",
@@ -4855,11 +5917,27 @@
     "exits": [
       "REGION_SPROUT_TOWER_2F"
     ],
-    "trainers": [
-      "SAGE_3",
-      "SAGE_4",
-      "SAGE_8",
-      "SAGE_9"
+    "parties": [
+      {
+        "Sage Jin Scaling": [
+          "SAGE_3"
+        ]
+      },
+      {
+        "Sage Troy Scaling": [
+          "SAGE_4"
+        ]
+      },
+      {
+        "Sage Neal Scaling": [
+          "SAGE_8"
+        ]
+      },
+      {
+        "Sage Li Scaling": [
+          "SAGE_9"
+        ]
+      }
     ],
     "locations": [
       "SPROUT_TOWER_3F_ESCAPE_ROPE",
@@ -4880,9 +5958,17 @@
       "REGION_TEAM_ROCKET_BASE_B2F",
       "REGION_TEAM_ROCKET_BASE_B1F"
     ],
-    "trainers": [
-      "GRUNTM_16",
-      "SCIENTIST_3"
+    "parties": [
+      {
+        "Rocket Grunt M 16 Scaling": [
+          "GRUNTM_16"
+        ]
+      },
+      {
+        "Scientist Jed Scaling": [
+          "SCIENTIST_3"
+        ]
+      }
     ],
     "statics": [
       "RocketHQTrap1",
@@ -4905,11 +5991,27 @@
       "REGION_TEAM_ROCKET_BASE_B1F",
       "REGION_TEAM_ROCKET_BASE_B3F"
     ],
-    "trainers": [
-      "GRUNTM_17",
-      "GRUNTM_18",
-      "GRUNTM_19",
-      "EXECUTIVEF_2"
+    "parties": [
+      {
+        "Rocket Grunt M 17 Scaling": [
+          "GRUNTM_17"
+        ]
+      },
+      {
+        "Rocket Grunt M 18 Scaling": [
+          "GRUNTM_18"
+        ]
+      },
+      {
+        "Rocket Grunt M 19 Scaling": [
+          "GRUNTM_19"
+        ]
+      },
+      {
+        "Rocket Executive F 2 Scaling": [
+          "EXECUTIVEF_2"
+        ]
+      }
     ],
     "statics": [
       "RocketHQElectrode1",
@@ -4933,12 +6035,32 @@
     "exits": [
       "REGION_TEAM_ROCKET_BASE_B2F"
     ],
-    "trainers": [
-      "GRUNTF_5",
-      "GRUNTM_28",
-      "SCIENTIST_1",
-      "SCIENTIST_2",
-      "EXECUTIVEM_4"
+    "parties": [
+      {
+        "Rocket Grunt F 5 Scaling": [
+          "GRUNTF_5"
+        ]
+      },
+      {
+        "Rocket Grunt M 28 Scaling": [
+          "GRUNTM_28"
+        ]
+      },
+      {
+        "Scientist Ross Scaling": [
+          "SCIENTIST_1"
+        ]
+      },
+      {
+        "Scientist Mitch Scaling": [
+          "SCIENTIST_2"
+        ]
+      },
+      {
+        "Rocket Executive M 4 Scaling": [
+          "EXECUTIVEM_4"
+        ]
+      }
     ],
     "locations": [
       "TEAM_ROCKET_BASE_B3F_FULL_HEAL",
@@ -5147,12 +6269,32 @@
       "REGION_ROUTE_33",
       "REGION_ROUTE_32:SOUTH"
     ],
-    "trainers": [
-      "POKEMANIAC_1",
-      "HIKER_2",
-      "HIKER_18",
-      "FIREBREATHER_5",
-      "FIREBREATHER_7"
+    "parties": [
+      {
+        "PokeManiac Larry Scaling": [
+          "POKEMANIAC_1"
+        ]
+      },
+      {
+        "Hiker Russell Scaling": [
+          "HIKER_2"
+        ]
+      },
+      {
+        "Hiker Daniel Scaling": [
+          "HIKER_18"
+        ]
+      },
+      {
+        "Fire Breather Bill Scaling": [
+          "FIREBREATHER_5"
+        ]
+      },
+      {
+        "Fire Breather Ray Scaling": [
+          "FIREBREATHER_7"
+        ]
+      }
     ],
     "locations": [
       "UNION_CAVE_1F_AWAKENING",
@@ -5186,9 +6328,17 @@
       "REGION_RUINS_OF_ALPH_OUTSIDE:SOUTH:UNION_LEDGE",
       "REGION_UNION_CAVE_1F"
     ],
-    "trainers": [
-      "HIKER_3",
-      "HIKER_4"
+    "parties": [
+      {
+        "Hiker Phillip Scaling": [
+          "HIKER_3"
+        ]
+      },
+      {
+        "Hiker Leonard Scaling": [
+          "HIKER_4"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_HIKER_PHILLIP",
@@ -5202,9 +6352,17 @@
       "REGION_UNION_CAVE_1F",
       "REGION_UNION_CAVE_B2F"
     ],
-    "trainers": [
-      "POKEMANIAC_2",
-      "POKEMANIAC_3"
+    "parties": [
+      {
+        "PokeManiac Andrew Scaling": [
+          "POKEMANIAC_2"
+        ]
+      },
+      {
+        "PokeManiac Calvin Scaling": [
+          "POKEMANIAC_3"
+        ]
+      }
     ],
     "locations": [
       "ITEM_FROM_POKEMANIAC_ANDREW",
@@ -5217,10 +6375,22 @@
     "exits": [
       "REGION_UNION_CAVE_B1F"
     ],
-    "trainers": [
-      "COOLTRAINERM_1",
-      "COOLTRAINERF_1",
-      "COOLTRAINERF_15"
+    "parties": [
+      {
+        "Cool Trainer Nick Scaling": [
+          "COOLTRAINERM_1"
+        ]
+      },
+      {
+        "Cool Trainer Gwen Scaling": [
+          "COOLTRAINERF_1"
+        ]
+      },
+      {
+        "Cool Trainer Emma Scaling": [
+          "COOLTRAINERF_15"
+        ]
+      }
     ],
     "statics": [
       "UnionCaveLapras"
@@ -5281,11 +6451,15 @@
     "exits": [
       "REGION_VERMILION_CITY"
     ],
-    "trainers": [
-      "GENTLEMAN_3",
-      "GUITARIST_2",
-      "JUGGLER_3",
-      "LT_SURGE_1"
+    "parties": [
+      {
+        "Vermilion Gym Scaling": [
+          "GENTLEMAN_3",
+          "GUITARIST_2",
+          "JUGGLER_3",
+          "LT_SURGE_1"
+        ]
+      }
     ],
     "locations": [
       "THUNDER_BADGE_FROM_LTSURGE",
@@ -5349,10 +6523,14 @@
       "REGION_VICTORY_ROAD_GATE",
       "REGION_ROUTE_23"
     ],
-    "trainers": [
-      "RIVAL_MEGANIUM_2",
-      "RIVAL_TYPHLOSION_2",
-      "RIVAL_FERALIGATR_2"
+    "parties": [
+      {
+        "Victory Road Rival Scaling": [
+          "RIVAL_MEGANIUM_2",
+          "RIVAL_TYPHLOSION_2",
+          "RIVAL_FERALIGATR_2"
+        ]
+      }
     ],
     "locations": [
       "VICTORY_ROAD_FULL_HEAL",
@@ -5407,10 +6585,14 @@
     "exits": [
       "REGION_VIOLET_CITY"
     ],
-    "trainers": [
-      "BIRD_KEEPER_1",
-      "BIRD_KEEPER_2",
-      "FALKNER_1"
+    "parties": [
+      {
+        "Violet Gym Scaling": [
+          "BIRD_KEEPER_1",
+          "BIRD_KEEPER_2",
+          "FALKNER_1"
+        ]
+      }
     ],
     "locations": [
       "TM31_MUD_SLAP",
@@ -5482,8 +6664,12 @@
     "exits": [
       "REGION_VIRIDIAN_CITY"
     ],
-    "trainers": [
-      "BLUE_1"
+    "parties": [
+      {
+        "Viridian Gym Scaling": [
+          "BLUE_1"
+        ]
+      }
     ],
     "locations": [
       "EARTH_BADGE_FROM_BLUE"
@@ -5623,9 +6809,6 @@
       "REGION_INDIGO_PLATEAU_POKECENTER_1F",
       "REGION_KOGAS_ROOM"
     ],
-    "trainers": [
-      "WILL_1"
-    ],
     "locations": [],
     "events": [
       "EVENT_BEAT_ELITE_4_WILL"
@@ -5637,10 +6820,14 @@
       "REGION_ECRUTEAK_CITY",
       "REGION_ECRUTEAK_TIN_TOWER_ENTRANCE"
     ],
-    "trainers": [
-      "SAGE_10",
-      "SAGE_11",
-      "SAGE_12"
+    "parties": [
+      {
+        "Wise Trio Scaling": [
+          "SAGE_10",
+          "SAGE_11",
+          "SAGE_12"
+        ]
+      }
     ],
     "locations": [],
     "events": [
