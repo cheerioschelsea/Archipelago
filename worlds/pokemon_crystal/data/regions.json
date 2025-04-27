@@ -1134,6 +1134,11 @@
     ],
     "parties": [
       {
+        "Sailor Jeff Scaling": [
+          "SAILOR_6"
+        ]
+      },
+      {
         "Sailor Garrett Scaling": [
           "SAILOR_7"
         ]
@@ -1166,6 +1171,16 @@
       {
         "School Boy Ricky Scaling": [
           "SCHOOLBOY_12"
+        ]
+      },
+      {
+        "Picnicker Debra Scaling": [
+          "PICNICKER_8"
+        ]
+      },
+      {
+        "Juggler Fritz Scaling": [
+          "JUGGLER_2"
         ]
       }
     ],
@@ -1207,6 +1222,11 @@
       {
         "PokeManiac Ethan Scaling": [
           "POKEMANIAC_8"
+        ]
+      },
+      {
+        "Hiker Noland Scaling": [
+          "HIKER_14"
         ]
       },
       {
@@ -1257,6 +1277,17 @@
         "Super Nerd Shawn Scaling": [
           "SUPER_NERD_9"
         ]
+      },
+      {
+        "PokeFan Colin Scaling": [
+          "POKEFANM_9"
+        ]
+      },
+      {
+        "Twins Meg and Peg Scaling": [
+          "TWINS_7",
+          "TWINS_8"
+        ]
       }
     ],
     "locations": [
@@ -1289,6 +1320,11 @@
       {
         "Guitarist Clyde Scaling": [
           "GUITARIST_1"
+        ]
+      },
+      {
+        "Fire Breather Lyle Scaling": [
+          "FIREBREATHER_8"
         ]
       }
     ],
@@ -3138,7 +3174,7 @@
     ],
     "parties": [
       {
-        "Executive M 3 Scaling": [
+       "Executive M 3 Scaling": [
           "EXECUTIVEM_3"
         ]
       }
