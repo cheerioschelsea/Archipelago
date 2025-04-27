@@ -47,10 +47,10 @@ def create_regions(world: "PokemonCrystalWorld") -> Dict[str, Region]:
                 trainer_name_level_list: List[Tuple[str, int]] = []
                 encounter_name_level_list: List[Tuple[str, int]] = []
 
-                # Create plando locations for the trainers in their regions.
-                for trainer in region_data.trainers:
+                # Create plando locations for the trainer parties in their regions.
+                for party in region_data.parties:
                     scaling_event = PokemonCrystalLocation(
-                        world.player, trainer.name, new_region, None, None, None, frozenset({"trainer scaling"}))
+                        world.player, party.name, new_region, None, None, None, frozenset({"trainer scaling"}))
                     scaling_event.show_in_spoiler = False
                     scaling_event.place_locked_item(PokemonCrystalItem(
                         "Trainer Party", ItemClassification.filler, None, world.player))
@@ -70,7 +70,7 @@ def create_regions(world: "PokemonCrystalWorld") -> Dict[str, Region]:
 
                 min_level = 100
                 # Create a new list of all the Trainer Pokemon and their levels
-                for trainer in region_data.trainers:
+                for trainer in region_data.scaling[trainer]:
                     for pokemon in trainer.pokemon:
                         min_level = min(min_level, pokemon.level)
                     # We grab the level and add it to our custom list.

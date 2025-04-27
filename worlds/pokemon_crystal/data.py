@@ -46,6 +46,11 @@ class TrainerData(NamedTuple):
     name_length: int
 
 
+class ScalingData(NamedTuple):
+    name: str
+    trainers: List[TrainerData]
+
+
 class LearnsetData(NamedTuple):
     level: int
     move: str
@@ -189,7 +194,7 @@ class RegionData:
     silver_cave: bool
     exits: List[str]
     warps: List[str]
-    trainers: List[TrainerData]
+    parties: List[ScalingData]
     statics: List[StaticPokemon]
     locations: List[str]
     events: List[EventData]
@@ -198,7 +203,7 @@ class RegionData:
         self.name = name
         self.exits = []
         self.warps = []
-        self.trainers = []
+        self.parties = []
         self.statics = []
         self.locations = []
         self.events = []
@@ -229,6 +234,7 @@ class PokemonCrystalData:
     locations: Dict[str, LocationData]
     items: Dict[int, ItemData]
     trainers: Dict[str, TrainerData]
+    parties: Dict[str, ScalingData]
     pokemon: Dict[str, PokemonData]
     moves: Dict[str, MoveData]
     wild: WildData
@@ -250,6 +256,7 @@ class PokemonCrystalData:
         self.locations = {}
         self.items = {}
         self.trainers = {}
+        self.parties = {}
         self.pokemon = {}
         self.trades = []
         self.moves = {}
@@ -345,6 +352,12 @@ def _init() -> None:
             trainer_attributes["name_length"]
         )
 
+    data.parties = {}
+    if "parties" in regions_json:
+        for party_name, party_data in regions_json["parties"].items():
+            data.parties[party_name] = ScalingData(party_name,
+                                                   party_data["trainers"])
+
     data.static = {}
     for static_name, static_data in data_json["static"].items():
         level_type = static_data["type"]
@@ -390,11 +403,11 @@ def _init() -> None:
         for event in region_json["events"]:
             new_region.events.append(EventData(event, region_name))
 
-        # trainers
-        if "trainers" in region_json:
-            for trainer in region_json["trainers"]:  #
-                new_region.trainers.append(data.trainers[trainer])
-        #
+        # scaling
+        if "parties" in region_json:
+            for party in region_json["parties"]:
+                new_region.parties.append(data.parties[party])
+
         # statics
         if "statics" in region_json:
             for static in region_json["statics"]:
